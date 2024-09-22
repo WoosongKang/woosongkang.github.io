@@ -6,6 +6,9 @@ permalink: /about/
 
 # About Me
 
-This is where you can write about yourself! You can add your bio, interests, or anything you'd like to share. For example:
+I am currently a researcher at the Korea Institue of Machinery&Materials(KIMM). 
 
-Hi, I'm [Your Name], a robotics engineer with experience in reinforcement learning and legged robots. I enjoy music, especially Korean ballads, R&B, and hip-hop.
+Previously, I completed a Ms in Motion Control Lab(MCL) at DGIST, south Korea in the field of Robotics and Mechatronics Engineering. I aslo attained my Bs in convergence engineering at DGIST.
+
+NEWNEW
+
