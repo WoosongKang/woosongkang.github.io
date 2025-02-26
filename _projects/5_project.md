@@ -13,5 +13,17 @@ category: work
     </div>
 </div>
 <div class="caption">
-    Integrate dual arm and gripper to grip and pour the juice.
+    Manipulator Pick and Place Motion Generation.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/user_trj_teaching.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/p2p_online_teaching.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    Teleoperation with manipulator
 </div>
