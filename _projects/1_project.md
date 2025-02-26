@@ -20,3 +20,5 @@ related_publications: false
 <div class="caption">
     Various tasks of Wheeleg-legged robot
 </div>
+
+This code is simple
