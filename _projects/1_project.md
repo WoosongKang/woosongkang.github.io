@@ -25,4 +25,8 @@ related_publications: false
     Various tasks of Wheeleg-legged robot
 </div>
 
-This code is simple
+My Role Description
+
+    1. Bipedal Robot Linkage Structure Optimization
+     
+The goal of the wheel-legged bipedal robot project was to generate a trajectory using a single actuator, making it an underactuated system. Due to this limitation, controlling movement in both the x and y directions was not feasible. To overcome this challenge, I was conducted a topology structure optimization based on a four-bar linkage, designed to minimize movement in the x direction while enabling motion primarily in the y direction. As a result, a structure was developed that moves linearly in the y direction while limiting displacement in the x direction to a maximum of 0.04.
