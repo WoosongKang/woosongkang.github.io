@@ -62,9 +62,8 @@ category: work
 My Role Description
 
     1. Actuator Devlopment
+
 I have worked with various types of actuators. Initially, the Series Elastic Actuator (SEA) was one of my research topics. SEA offers advantages such as impact mitigation and high force measurement resolution. I participated in designing a novel, compact SEA that integrated a motor driver as a module. Following this, I developed a Parallel Elastic Actuator (PEA), which was well-suited for exercise-assist robots due to its ability to enhance human force with a spring mechanism. At KIMM, I contributed to the modularization of a two-axis Rigid Actuator (RA). To validate its performance, I conducted dynamometer tests, which provided critical data for designing robots with appropriate actuator specifications.
-
-
 
     2. Actuator Force Control 
 
