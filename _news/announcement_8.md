@@ -5,7 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I'm happy to share that my bipedal locomotion research at KIMM has been published in IEEE Access under the title 'Robust Whole-Body Balance Control of Wheeled-Bipedal Robot for Perception-Less Terrain Adaptation'."
-
+I'm happy to share that my bipedal locomotion research at KIMM has been published in IEEE Access under the title 'Robust Whole-Body Balance Control of Wheeled-Bipedal Robot for Perception-Less Terrain Adaptation'.
 
 
