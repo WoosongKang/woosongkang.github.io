@@ -19,12 +19,11 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi Everyone, welcome to my website! My name is Woosong Kang.
 
-I am currently a CEO of KangZ Robotics (Sole Proprietor), a company providing algorithm solutions. 
+I am currently pursuing my Ph.D. at the Korea Advanced Institute of Science and Technology (KAIST).
 
-I previously worked as a researcher at the Korea Institute of Machinery & Materials (KIMM). I pursued my Master's degree in Professor Sehoon Oh's lab at the Daegu Gyeongbuk Institute of Science and Technology (DGIST), where I conducted research on the locomotion of quadrupedal robots. I earned my Bachelor's degree from DGIST and graduated from a science high school.
+Previously, I founded and served as the CEO of KangZ Robotics, a company dedicated to providing advanced algorithm solutions. I also worked as a researcher at the Korea Institute of Machinery & Materials (KIMM). I earned both my Master's and Bachelor's degrees from the Daegu Gyeongbuk Institute of Science and Technology (DGIST), where I conducted research on the locomotion of quadrupedal robots in Professor Sehoon Oh's lab.
 
-As a robotics engineer, I envision a society where humans and robots coexist harmoniously. My goal is to create robots that can adapt to the complex environments humans have built and enhance the quality of human life. My specific interest has always been in robust control of walking robots and implementing various tasks for them, such as jumping and running. To achieve this, I have worked on various robots, from actuators to the design and control of robots, and I have developed algorithms for their operation.
+As a robotics engineer, I envision a society where humans and robots coexist harmoniously. My goal is to create robots capable of adapting to the complex environments humans have built, ultimately enhancing the quality of human life. My specific research focus lies in the whole-body control of humanoid robots, enabling them to dynamically perform various and complex tasks. To achieve this, I have built comprehensive experience across the robotics spectrum—from actuator design and hardware integration to the development of robust control algorithms.
 
-In addition to my professional interests, I am personally passionate about the history of robotics. I also enjoy singing, drinking whiskey, and creating cocktails in my spare time.
-
+In addition to my professional pursuits, I am personally passionate about the history of robotics. In my spare time, I also enjoy singing, exploring different whiskeys, and crafting cocktails.
 
