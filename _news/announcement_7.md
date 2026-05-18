@@ -5,7 +5,9 @@ inline: true
 related_posts: false
 ---
 
-I’m excited to announce the launch of my new solo venture, "KangZ Robotics." We specialize in developing and supplying control algorithms for various robotic tasks. I look forward to connecting with many of you!
+I’m happy to share that I’ve started my Doctor of Philosophy - PhD at KAIST! 
+My research will focus on humanoid whole-body control, where I will be working to push the boundaries of robotics to achieve agile, versatile, and highly precise performance in humanoid robots.
+I am incredibly excited for this new chapter and the technical challenges ahead. Let’s keep in touch as I embark on this journey into the future of robotics!
 
 
 
