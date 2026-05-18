@@ -26,4 +26,3 @@ Previously, I founded and served as the CEO of KangZ Robotics, a company dedicat
 As a robotics engineer, I envision a society where humans and robots coexist harmoniously. My goal is to create robots capable of adapting to the complex environments humans have built, ultimately enhancing the quality of human life. My specific research focus lies in the whole-body control of humanoid robots, enabling them to dynamically perform various and complex tasks. To achieve this, I have built comprehensive experience across the robotics spectrum—from actuator design and hardware integration to the development of robust control algorithms.
 
 In addition to my professional pursuits, I am personally passionate about the history of robotics. In my spare time, I also enjoy singing, exploring different whiskeys, and crafting cocktails.
-
