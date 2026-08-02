@@ -109,13 +109,13 @@
     {
       "name": "PC-SureNAV: Preference-Conditioned Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environment",
       "publisher": "In Preparation",
-      "releaseDate": "2026",
+      "releaseDate": "2027",
       "summary": "Develops a preference-conditioned navigation method that relaxes constraints over a superpixel graph in over-constrained environments."
     },
     {
       "name": "Accurate Jumping Control of Wheeled-Bipedal Robots via Takeoff Velocity Matching and Torque-Optimized Force Trajectory",
       "publisher": "Robotics and Autonomous Systems (Under Review)",
-      "releaseDate": "2026",
+      "releaseDate": "2026 (Under Review)",
       "summary": "Presents a takeoff-velocity matching and torque-optimized force trajectory controller for accurate commanded-height jumping of a wheeled-bipedal robot."
     },
     {
