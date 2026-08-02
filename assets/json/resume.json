@@ -36,6 +36,7 @@
     {
       "name": "KangZ Robotics",
       "position": "Sole Proprietor",
+      "location": "Daejeon, South Korea",
       "startDate": "2024",
       "endDate": "2025",
       "summary": "Developed control algorithm solutions for robotic systems, from actuator-level force control to task-level manipulation control",
