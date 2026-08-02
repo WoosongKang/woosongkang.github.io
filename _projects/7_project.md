@@ -3,7 +3,7 @@ layout: page
 title: Humanoid Robot
 description: Whole-body teleoperation, locomotion, and manipulation
 img: assets/img/g1.png
-importance: 1
+importance: 0
 category: work
 related_publications: false
 ---
