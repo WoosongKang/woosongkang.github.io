@@ -177,6 +177,7 @@
   "projects": [
     {
       "name": "Humanoid Whole-Body Teleoperation Pipeline",
+      "url": "/projects/7_project/",
       "summary": "Developed an Isaac Sim-based teleoperation and human-to-robot motion-retargeting pipeline for whole-body humanoid control and demonstration data collection",
       "highlights": ["Motion retargeting", "Whole-body control", "Isaac Sim and Isaac Lab", "Real-robot deployment"],
       "startDate": "2026",
@@ -184,6 +185,7 @@
     },
     {
       "name": "IROS 2026 Humanoid IKEA Assembly Challenge",
+      "url": "/projects/7_project/",
       "summary": "Developing an autonomous furniture-assembly pipeline that integrates locomotion, precise base positioning, and Vision-Language-Action manipulation policies",
       "highlights": ["Reinforcement learning", "Humanoid locomotion", "Precise positioning", "Vision-Language-Action models"],
       "startDate": "2026",

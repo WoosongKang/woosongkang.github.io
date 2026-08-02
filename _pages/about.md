@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Cellular Phone : +82-10-8411-0245</p>
-    <p>Mail : woosongkang96@gmail.com</p>
+    <p>Mail : woosong@kaist.ac.kr</p>
     <p>City : Daejeon, South Korea</p>
 
 news: true # includes a list of news items
