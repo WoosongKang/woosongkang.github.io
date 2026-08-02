@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Woosong Kang",
-    "label": "Robotics Engineer",
+    "label": "Ph.D. Student | Robotics Researcher",
     "image": "",
-    "email": "woosongkang96@gmail.com",
+    "email": "woosong@kaist.ac.kr",
     "phone": "(+82) 10-8411-0245",
     "url": "https://woosongkang.github.io",
-    "summary": "A Korean-born robotics engieer, particularly interested in legged robot locomotion",
+    "summary": "A robotics researcher interested in humanoid whole-body control, learning-based robot control, legged robot locomotion, motion generation and adaptation, and model-based actuator-aware control",
     "location": {
       "address": "Yuseongu",
       "postalCode": "34103",
@@ -24,56 +24,76 @@
   },
   "work": [
     {
-      "name": "KangZ Robotics",
-      "position": "Founder",
-      "startDate": "2024-10-01",
+      "name": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "position": "Research Assistant",
+      "location": "Daejeon, South Korea",
+      "url": "https://rirolab.kaist.ac.kr/",
+      "startDate": "2026",
       "endDate": "current",
-      "summary": "We are a company that develops and supplies control algorithm solutions tailored to the needs of various robots, providing everything from lower-level actuator control to higher-level task control.",
-      "highlights": ["Control Solution, Actuator to Robot"]
+      "summary": "Developing humanoid whole-body control systems in the Robust Intelligence and Robotics Lab",
+      "highlights": ["Humanoid teleoperation and motion retargeting", "Reinforcement learning-based locomotion", "Vision-Language-Action manipulation"]
     },
-
     {
-      "name": "Korea Institue of Machinery and Materials(KIMM)",
-      "position": "Full-time Researcher",
-      "url": "https://www.kimm.re.kr/eng",
-      "startDate": "2021-08-30",
-      "endDate": "2024-09-20",
-      "summary": "Participated in the development and control of a dual-arm robot, manipulator robot and a wheeled-bipedal robot as a full-time researcher",
-      "highlights": ["Wheeled-leg Robot Jumping, Dual-arm Robot, Novel Actuator"]
+      "name": "KangZ Robotics",
+      "position": "Sole Proprietor",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "Developed control algorithm solutions for robotic systems, from actuator-level force control to task-level manipulation control",
+      "highlights": ["Real-time haptic-robot synchronization", "Coordinated manipulator tension control"]
     },
-
-  {
-      "name": "Daegu Gyeongbuk Institue of Science and Technology(DGIST)",
-      "position": "Graduate Student Researcher(Advisor : Sehoon Oh)",
+    {
+      "name": "Korea Institute of Machinery and Materials (KIMM)",
+      "position": "Full-time Researcher",
+      "location": "Daejeon, South Korea",
+      "url": "https://www.kimm.re.kr/eng",
+      "startDate": "2021",
+      "endDate": "2024",
+      "summary": "Developed wheeled-bipedal and dual-arm robots and their locomotion and manipulation control algorithms",
+      "highlights": ["Wheeled-bipedal robot balance and jumping control", "Dual-arm robot development and control", "Novel actuator manufacturing and validation"]
+    },
+    {
+      "name": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
+      "position": "Graduate Student Researcher",
+      "location": "Daegu, South Korea",
       "url": "https://sites.google.com/view/motion-control-lab/home",
-      "startDate": "2021-03-02",
-      "endDate": "2021-08-20",
-      "summary": "Proposed new control algorithms for achieving high-speed running with estimated ground reaction forces",
-      "highlights": ["Locomotion Control"]
-    }    
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "Developed quadrupedal robot locomotion and actuator force control algorithms under the supervision of Prof. Sehoon Oh",
+      "highlights": ["Quadrupedal robot high-speed running", "SLIP-based locomotion control", "Series Elastic Actuator force control"]
+    }
   ],
   "education": [
     {
-      "institution": "Daegu Gyeongbuk Institue of Science and Technology(DGIST)",
+      "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "location": "Daejeon, South Korea",
+      "url": "https://rirolab.kaist.ac.kr/",
+      "area": "Humanoid Robot, Whole-Body Control, Imitation/Reinforcement Learning, Human-Aware Navigation",
+      "studyType": "Ph.D. in Computer Science",
+      "startDate": "2026",
+      "endDate": "current",
+      "courses": ["Robust Intelligence and Robotics Lab (RIRO), Prof. Daehyung Park"]
+    },
+    {
+      "institution": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
       "location": "Daegu, South Korea",
       "url": "https://sites.google.com/view/motion-control-lab/home",
       "area": "Legged Robot Control, Actuator Control",
-      "studyType": "M.S in Robotics Engineering",
+      "studyType": "M.S. in Robotics Engineering",
       "startDate": "2019",
       "endDate": "2021",
       "score": "3.81/4.30",
-      "courses": ["Development and Control of High Driving-Force Quadruped Robot"]
+      "courses": ["Motion Control Lab (MCL), Prof. Sehoon Oh", "Thesis: Development and Control of High Driving-Force Quadruped Robot"]
     },
     {
-      "institution": "Daegu Gyeongbuk Institue of Science and Technology(DGIST)",
+      "institution": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
       "location": "Daegu, South Korea",
       "url": "https://www.dgist.ac.kr/eng/index.do",
       "area": "Robotics, Artificial Intelligence",
-      "studyType": "B.S in Engineering",
+      "studyType": "Bachelor of Engineering",
       "startDate": "2015",
       "endDate": "2019",
       "score": "3.34/4.30",
-      "courses": [""]
+      "courses": []
     },
     {
       "institution": "University of California, Berkeley",
@@ -82,11 +102,29 @@
       "studyType": "Visiting Student",
       "startDate": "2016-06",
       "endDate": "2016-08",
-      "score": "3.34/4.30",
-      "courses": [""]
-    }        
+      "courses": []
+    }
   ],
   "publications": [
+    {
+      "name": "PC-SureNAV: Preference-Conditioned Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environment",
+      "publisher": "In Preparation",
+      "releaseDate": "2026",
+      "summary": "Develops a preference-conditioned navigation method that relaxes constraints over a superpixel graph in over-constrained environments."
+    },
+    {
+      "name": "Accurate Jumping Control of Wheeled-Bipedal Robots via Takeoff Velocity Matching and Torque-Optimized Force Trajectory",
+      "publisher": "Robotics and Autonomous Systems (Under Review)",
+      "releaseDate": "2026",
+      "summary": "Presents a takeoff-velocity matching and torque-optimized force trajectory controller for accurate commanded-height jumping of a wheeled-bipedal robot."
+    },
+    {
+      "name": "Robust Whole-Body Balance Control of Wheeled-Bipedal Robot for Perception-Less Terrain Adaptation",
+      "publisher": "IEEE Access",
+      "releaseDate": "2026-04-01",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11460162",
+      "summary": "Presents a robust whole-body controller that enables wheeled-bipedal robots to maintain balance and locomotion in changing environments without terrain perception."
+    },
     {
       "name": "Iterative Periodic Running Control through Swept Angle Adjustment with Modified SLIP Model",
       "publisher": "IEEE Robotics and Automation Letters",
@@ -96,151 +134,160 @@
     },
     {
       "name": "Developing a Jumping Algorithm for Overcoming Obstacle in the Wheeled Bipedal Robot",
-      "publisher": "Journal of the Korean Society of Manufacturing Technology Engineers ",
+      "publisher": "The Korean Society of Manufacturing Technology Engineers (KSMTE) Annual Autumn Conference",
       "releaseDate": "2023-12",
       "url": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11674020&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=040000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true",
       "summary": "Using the dynamics of the SLIP model, the take-off velocity and leg length trajectories needed to achieve the desired height were determined. The robot's kinematics were then controlled to mimic the SLIP model, allowing it to track position and velocity trajectories and jump to the desired height."
     },
     {
       "name": "Development of Rotating Workspace Ground Contact Force Observer for Legged Robot",
-      "publisher": " 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "publisher": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
       "releaseDate": "2021-09-27",
       "url": "https://ieeexplore.ieee.org/abstract/document/9636840",
       "summary": "Two novel coordinate systems are introduced to describe the joint space motion and the workspace differently, and the ground contact force observer is designed in the novel coordinate systems."
     },
     {
       "name": "Implementation of Integrated Dual SLIP Dynamics for Sagittal plane motion of Quadruped Robot",
-      "publisher": " International Conference on Control, Automation and Systems (ICCAS) ",
+      "publisher": "International Conference on Control, Automation and Systems (ICCAS)",
       "releaseDate": "2020-10",
       "url": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10493545",
-      "summary": "A novel control algorithm is proposed to achieveSLIP dynamics by preventing the legs’ asymmetry SLIP behavior. "
-    },    
+      "summary": "Proposes a control algorithm that achieves integrated dual-SLIP dynamics while preventing asymmetric behavior between the robot legs."
+    },
     {
       "name": "Ripple Minimization for Harmonic-geared Series Elastic Actuator under Force Control",
-      "publisher": " 2020 IEEE 16th International Workshop on Advanced Motion Control (AMC)",
+      "publisher": "2020 IEEE 16th International Workshop on Advanced Motion Control (AMC)",
       "releaseDate": "2020-09-14",
       "url": "https://ieeexplore.ieee.org/abstract/document/9244303",
-      "summary": "Develops an accurate force control algorithm an reduce the effect of torque ripple for the Series Elastic Actuators (SEA). "
+      "summary": "Develops an accurate force control algorithm that reduces the effect of torque ripple in Series Elastic Actuators (SEA)."
     },
    {
       "name": "Transparent Torque Sensor-less Impedance Rendering for Low-cost Direct Drive Motor",
-            "publisher": " 2020 IEEE 16th International Workshop on Advanced Motion Control (AMC)",
+      "publisher": "2020 IEEE 16th International Workshop on Advanced Motion Control (AMC)",
       "releaseDate": "2020-09-14",
       "url": "https://ieeexplore.ieee.org/abstract/document/9244441",
-      "summary": "proposes transparent sensor-less impedance control to improve impedance rendering performance for the low-cost DD motor. Torque ripple, the main problem, is measured and analyzed to develop the high-performance impedance controller. "
-    }        
+      "summary": "Proposes transparent sensor-less impedance control for a low-cost direct-drive motor by measuring, analyzing, and compensating for torque ripple."
+    },
+    {
+      "name": "Torque Ripple Estimation, Characterization and Compensation for High Torque BLDC Motor based on Multi-sine Function",
+      "publisher": "19th International Conference on Control, Automation and Systems (ICCAS)",
+      "releaseDate": "2019",
+      "summary": "Estimates and compensates for periodic torque ripple in a high-torque BLDC motor using a multi-sine function."
+    }
   ],
   "projects": [
     {
-      "name": "Wheeled-Leg Robot Development and Locomtion Control",
-      "summary": "Design Wheeled-leg robot with topology optimization and develop control algorithm for accurate jumping with maintaining stability",
-      "highlights": ["Wheeled-leg robot locomotion", "Accurate jumping"],
-      "startDate": "2023",
+      "name": "Humanoid Whole-Body Teleoperation Pipeline",
+      "summary": "Developed an Isaac Sim-based teleoperation and human-to-robot motion-retargeting pipeline for whole-body humanoid control and demonstration data collection",
+      "highlights": ["Motion retargeting", "Whole-body control", "Isaac Sim and Isaac Lab", "Real-robot deployment"],
+      "startDate": "2026",
       "endDate": "current"
     },
     {
-      "name": "Dual Arm Robot Development and Control",
-      "summary": "Developed a Dual Arm Robot and implemented robot control to grasp cups and pour water by integrating grippers",
-      "highlights": ["Dual-arm robot", "Inverse kinematics control"],
-      "startDate": "2023",
-      "endDate": "2023"
+      "name": "IROS 2026 Humanoid IKEA Assembly Challenge",
+      "summary": "Developing an autonomous furniture-assembly pipeline that integrates locomotion, precise base positioning, and Vision-Language-Action manipulation policies",
+      "highlights": ["Reinforcement learning", "Humanoid locomotion", "Precise positioning", "Vision-Language-Action models"],
+      "startDate": "2026",
+      "endDate": "current"
     },
     {
-      "name": "Quadrupedal Robot high-speed running locomotion algorithm",
-      "summary": "Developed hopping and gait pattern generation algorithms for a quadruped robot",
-      "highlights": ["Quadrupedal robot", "Running algorithm"],
+      "name": "Real-Time Haptic-Robot Synchronization Algorithm",
+      "summary": "Implemented haptic force feedback and synchronized a manipulator trajectory with a haptic device using inverse kinematics",
+      "highlights": ["Geomagic Touch force rendering", "Inverse kinematics", "ROS-based real-time experiments", "MATLAB simulation"],
+      "startDate": "2024",
+      "endDate": "2025"
+    },
+    {
+      "name": "Coordinated Manipulator Control for Desired Tension",
+      "summary": "Developed coordinated manipulator and gripper force control to achieve a desired cable tension",
+      "highlights": ["Tension control", "Inverse kinematics", "Gripper force control", "MATLAB simulation"],
+      "startDate": "2024",
+      "endDate": "2025"
+    },
+    {
+      "name": "Wheeled-Leg Robot Development and Locomotion Control",
+      "url": "/projects/1_project/",
+      "summary": "Designed a topology-optimized robot leg and developed balance, navigation, and accurate jumping control algorithms for a wheeled-bipedal robot",
+      "highlights": ["LQR balance control", "SLIP-based jumping", "Torque-optimized force trajectory", "ROS-based experiments"],
+      "startDate": "2021",
+      "endDate": "2024"
+    },
+    {
+      "name": "Dual Arm Robot Development and Control",
+      "url": "/projects/3_project/",
+      "summary": "Developed a dual-arm robot and implemented inverse-kinematics control to grasp cups and pour water using integrated grippers",
+      "highlights": ["Actuator validation", "Inverse kinematics", "ROS-based real-time experiments", "Robot World 2023 demonstration"],
+      "startDate": "2021",
+      "endDate": "2024"
+    },
+    {
+      "name": "Quadrupedal Robot High-Speed Running Locomotion Algorithm",
+      "url": "/projects/2_project/",
+      "summary": "Developed hopping and gait-pattern generation algorithms and proposed high-speed running control using estimated ground reaction forces",
+      "highlights": ["Sensorless force estimation", "LabVIEW real-time experiments", "MATLAB Simscape simulation"],
       "startDate": "2021",
       "endDate": "2021"
     },
     {
       "name": "Development of High-Speed Running Multi-Legged Robot Using Back-Driveable Actuator System",
-      "summary": "Designed a quadruped robot platform with a waist actuator and enhanced force control performance algorithm for Series Elastic Actuators",
-      "highlights": ["Robot design", "Actuator control"],
-      "startDate": "2021",
-      "endDate": "2021"
-    },
-    {
-      "name":"Developing a variable exercise machine with the Tension Control Module",
-      "summary": "Developed a force control algorithm capable of adjusting load in response to user intent",
-      "highlights": ["Force control", "Human robot interaction"],
-      "startDate": "2020",
+      "url": "/projects/2_project/",
+      "summary": "Designed a quadruped robot platform with a waist actuator and developed SLIP-based locomotion and Series Elastic Actuator force control",
+      "highlights": ["SLIP-based running", "SolidWorks robot design", "LabVIEW real-time experiments", "MATLAB Simscape simulation"],
+      "startDate": "2019",
       "endDate": "2020"
     },
     {
-      "name": "Development of interworking modular exo-suit technology for strength support",
-      "summary": "Devised an auxiliary force control algorithm for enhancing the precision strength of SEA integrated into exosuits",
-      "highlights": ["Impedance Control", "Actuator Ripple control"],
-      "startDate": "2020",
+      "name": "Variable Exercise Machine with a Tension Control Module",
+      "url": "/projects/6_project/",
+      "summary": "Designed a high-torque actuator module and developed force control that adjusts exercise load in response to user intent",
+      "highlights": ["High-torque actuator development", "Force control", "Human-robot interaction"],
+      "startDate": "2019",
       "endDate": "2020"
-    }                                    
-  ],    
+    },
+    {
+      "name": "Interworking Modular Exo-Suit Technology for Strength Support",
+      "url": "/projects/6_project/",
+      "summary": "Developed an auxiliary force controller that improves force accuracy for a Series Elastic Actuator integrated into an exosuit",
+      "highlights": ["Impedance control", "Harmonic-drive ripple compensation", "Cogging-torque compensation"],
+      "startDate": "2019",
+      "endDate": "2020"
+    },
+    {
+      "name": "Probabilistic Inference of Emotion in Text Using Deep Learning",
+      "summary": "Developed a recurrent neural network for seven-class emotion analysis of text",
+      "highlights": ["Recurrent Neural Network", "Caffe framework"],
+      "startDate": "2017-03",
+      "endDate": "2017-12"
+    },
+    {
+      "name": "Beginning and Significance of Scientific Skepticism",
+      "summary": "Analyzed cases of pseudoscience and proposed methodologies for distinguishing pseudoscience from scientific claims",
+      "highlights": ["Research", "Technical writing"],
+      "startDate": "2018-03",
+      "endDate": "2018-12"
+    }
+  ],
   "awards": [
     {
       "title": "Full Scholarship",
       "date": "2015-2019",
-      "awarder": "Daegu Gyeongbuk Institue of Science and Technology(DGIST)",
-      "summary": "Received national scholarship includes full tuition and stipend.'"
+      "awarder": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
+      "summary": "Received a national scholarship covering full tuition and a stipend."
     },
     {
       "title": "DGIST Best Research Award",
       "date": "2017",
-      "awarder": "Daegu Gyeongbuk Institue of Science and Technology(DGIST)",
+      "awarder": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
       "url": "https://dgistdna.com/235",
-      "summary": "Won Best Topic Research Award in Undergraduate Group Research Program (received 10 teams among 58 prgrams).'"
+      "summary": "Won the Best Topic Research Award in the Undergraduate Group Research Program."
     }
   ],
-  "my certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-
   "skills": [
     {
       "name": "Programming",
       "level": "High-intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python, C/C++, ROS, Matalb, LabVIEW"
+        "Python, C/C++, ROS, MATLAB, LabVIEW"
       ]
     },
     {
@@ -248,7 +295,7 @@
       "level": "High-intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Matlab/Simulink, Matlab/Simscape, Nvidia IssacGym, Gazebo, Raisim"
+        "MATLAB/Simulink, Simscape, NVIDIA Isaac Sim/Lab, Gazebo, RaiSim"
       ]
     },
     {
@@ -269,29 +316,33 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (TOEFL iBT: 100)",
       "icon": ""
     }
   ],
-  "my interests": [
+  "interests": [
     {
-      "name": "Physics",
+      "name": "Research Interests",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Humanoid Whole-Body Control",
+        "Learning-Based Robot Control",
+        "Legged Robot Locomotion",
+        "Motion Generation and Adaptation",
+        "Model-Based and Actuator-Aware Control"
       ]
     }
   ],
   "references": [
     {
+      "name": "Professor Daehyung Park",
+      "icon": "fa-solid fa-laptop",
+      "reference": "He is an associate professor in the School of Computing at KAIST, Daejeon, South Korea, and my Ph.D. advisor."
+    },
+    {
       "name": "Professor Sehoon Oh",
       "icon": "fa-solid fa-laptop",
-      "reference": "He is an associate professor and the chair of the Department of Robotics Engineering, DGIST, Daegu, South Korea. He was my advisor during my master's program."
+      "reference": "He is a professor in the Department of Robotics and Mechatronics Engineering at DGIST, Daegu, South Korea, and was my master's advisor."
     },
     {
       "name": "Dr. Dong Il Park",
